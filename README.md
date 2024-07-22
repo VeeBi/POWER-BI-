@@ -4,8 +4,7 @@ MINI PROJECT
 
 EXPLANATION : 
 
-
-
+https://drive.google.com/file/d/17t0P7-CMtVKYL7mTRlPA6QJjNpmQtWPt/view?usp=drive_link
 
 
 Analyze the data by visualizing the percentage of shipping based on ship mode : 
